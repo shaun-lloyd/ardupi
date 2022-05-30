@@ -64,22 +64,22 @@ This hardware is designed as OPAL reference.
 ### Hardware Specification
 
 RpiZero2W footprint.
-	- PCA9685:pwm
-	- ULN2803:led,buzzer
-	- ADS1115:current voltage sensor
-	- IMU9650:IMU
-	- BMP280:Barometer
+- PCA9685:pwm
+- ULN2803:led,buzzer
+- ADS1115:current voltage sensor
+- IMU9650:IMU
+- BMP280:Barometer
 
 ### Connections
-	- +5V@3A input
-	- ESC
-	- UART
-	- I2C
-	- SPI
-	- Serial
-	- PWM:servo/esc
-	- RC:Rx
-	- Buzzer & Safety Circuit
+- +5V@3A input
+- ESC
+- UART
+- I2C
+- SPI
+- Serial
+- PWM:servo/esc
+- RC:Rx
+- Buzzer & Safety Circuit
 
 ### Software
 TODO
