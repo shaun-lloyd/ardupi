@@ -102,9 +102,3 @@ Help documenting and organise schematics such that new users in particular can e
 
 Suggest better IC's, sensors and features.
 
-One potential future i would love to see is a reference implementation of all supported sensors/cpu/mcu. Allowing
-anyone to rapidly develop ardupilot hardware, essentially ArduPi hopes to be that platform.
-
-
-
-
