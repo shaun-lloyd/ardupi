@@ -2,6 +2,8 @@
 
 ArduPi is an open hardware/software Raspberry Pi shield with all the components to run ardupilot.
 
+Based entirely of work of Muhammad Hefny, OPAL.
+
 ## Thanks
 
 This project stands on the ardupilot & raspberry pi platforms, ardupilot in particular is an outstanding example of open source communities flourishing.
