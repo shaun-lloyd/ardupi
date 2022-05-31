@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mpu-9250")(type "KiCad")(uri "/home/me/project/ardupi/parts/ic/mpu9250/mpu-9250.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS1115IRUGR")(type "KiCad")(uri "/home/me/project/ardupi/parts/ic/ads111x/ADS1115IRUGR/ADS1115IRUGR.kicad_sym")(options "")(descr ""))
+)

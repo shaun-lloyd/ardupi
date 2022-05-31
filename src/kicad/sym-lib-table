@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "adafruit")(type "KiCad")(uri "/home/me/PCB/parts/SparkFun-KiCad-Libraries/Libraries/SparkFun-Switches.kicad_sym")(options "")(descr ""))
-  (lib (name "ardupi-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ardupi-eagle-import.kicad_sym")(options "")(descr ""))
-)
