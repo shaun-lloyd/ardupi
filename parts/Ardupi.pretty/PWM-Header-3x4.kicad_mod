@@ -1,4 +1,4 @@
-(footprint "3X04" (version 20211014) (generator pcbnew)
+(footprint "PWM-Header-3x4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (fp_text reference "JP6" (at -5.08 -4.445 -180) (layer "F.SilkS")
