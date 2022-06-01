@@ -2,11 +2,12 @@
 
 ## Current STATUS
 
-0.1	
-	- Schematic is started, footprint layed out. IC's selected.
-	- "rough" circuits for each ic are avail.
-	BUG	The way i'm handling kicad footprints/symbols isn't write, i'm trying to figure it out.
-	
+0.1
+	- Schematic draft almost complete, need power managment and QC.
+	- Getting Mohammad to code / schematic review.
+	- Selecting parts from JLCPCB
+	- pcb layout
+	- Need addition review.
 
 ## ArduPi-0.1	OPAL design reference.
 

@@ -22,6 +22,10 @@ Linux is the focus however Kicad is available on windows so there is no reason d
 As long as anything done on windows is "do-able" on linux then that's cool.
 
 
+## Status
+
+Please see roadmap.
+
 ## Problem i'm trying to solve
 
 General "user" complexity of the rc/ardupilot ecosystem.
