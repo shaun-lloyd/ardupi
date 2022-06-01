@@ -3181,6 +3181,11 @@
       (net 2 "+5V") (pinfunction "11") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c5b3d886-4765-43e2-a948-98733c1f47ad))
     (pad "12" thru_hole circle (at 3.81 -2.54) (size 1.778 1.778) (drill 1) (layers *.Cu *.Mask)
       (net 3 "GND") (pinfunction "12") (pintype "passive") (solder_mask_margin 0.0508) (tstamp eee8de00-0f9f-4315-bfa8-529fa761e90d))
+    (model "/home/me/project/ardupi/parts/header-3x04.kicad_sym"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
