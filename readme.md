@@ -2,15 +2,15 @@
 
 ArduPi is an open hardware/software Raspberry Pi shield with all the components to run ardupilot.
 
-Based entirely of work of Muhammad Hefny, OPAL.
+Based entirely on work of [Muhammad Hefny, OBAL](https://github.com/HefnySco/OBAL "Muhammad Hefny, OBAL").
 
 ## Thanks
 
 This project stands on the ardupilot & raspberry pi platforms, ardupilot in particular is an outstanding example of open source communities flourishing.
 
-OPAL, Muhammad Hefny. ArduPi has been created using OPAL as a reference and design inspiration.
+[OBAL, Mohammad Hefny](https://github.com/HefnySco/OBAL "OBAL, Mohammad Hefny"). ArduPi has been created using [OBAL](https://github.com/HefnySco/OBAL "OBAL") as a reference and design inspiration.
 
-ArduPi-v0.1 == OPAL
+ArduPi-v0.1 == OBAL
 
 
 ## Development
