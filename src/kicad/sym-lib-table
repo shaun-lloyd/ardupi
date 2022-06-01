@@ -186,4 +186,5 @@
   (lib (name "dk_Alarms-Buzzers-and-Sirens")(type "Legacy")(uri "/home/me/ardupi/parts/digikey-kicad-library/digikey-symbols/dk_Alarms-Buzzers-and-Sirens.lib")(options "")(descr ""))
   (lib (name "dk_Addressable-Specialty")(type "Legacy")(uri "/home/me/ardupi/parts/digikey-kicad-library/digikey-symbols/dk_Addressable-Specialty.lib")(options "")(descr ""))
   (lib (name "Ardupi")(type "KiCad")(uri "/home/me/ardupi/parts/Ardupi.kicad_sym")(options "")(descr ""))
+  (lib (name "TSW-108-08-L-T-RA")(type "Legacy")(uri "/home/me/project/ardupi/parts/connectors/TSW-108-08-L-T-RA/TSW-108-08-L-T-RA.lib")(options "")(descr ""))
 )

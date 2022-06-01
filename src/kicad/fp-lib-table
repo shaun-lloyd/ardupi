@@ -31,4 +31,5 @@
   (lib (name "PowerSymbols")(type "KiCad")(uri "/home/me/ardupi/parts/sparkfun-KiCad-libraries/Footprints/PowerSymbols.pretty")(options "")(descr ""))
   (lib (name "Silicon-Standard")(type "KiCad")(uri "/home/me/ardupi/parts/sparkfun-KiCad-libraries/Footprints/Silicon-Standard.pretty")(options "")(descr ""))
   (lib (name "Ardupi")(type "KiCad")(uri "/home/me/project/ardupi/parts/Ardupi.pretty")(options "")(descr ""))
+  (lib (name "TSW-108-08-L-T-RA")(type "KiCad")(uri "/home/me/project/ardupi/parts/connectors/TSW-108-08-L-T-RA")(options "")(descr ""))
 )
