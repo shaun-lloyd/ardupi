@@ -31,4 +31,5 @@
   (lib (name "Silicon-Standard")(type "KiCad")(uri "/home/me/project/ardupi/parts/sparkfun-KiCad-libraries/Footprints/Silicon-Standard.pretty")(options "")(descr ""))
   (lib (name "parts")(type "KiCad")(uri "/home/me/project/ardupi/parts.pretty")(options "")(descr ""))
   (lib (name "header-3x4")(type "KiCad")(uri "/home/me/project/ardupi/parts/Library.pretty/header-3x4.pretty")(options "")(descr ""))
+  (lib (name "ADS1115IRUGR")(type "KiCad")(uri "/home/me/project/ardupi/parts/ic/ads111x/ADS1115IRUGR")(options "")(descr ""))
 )
