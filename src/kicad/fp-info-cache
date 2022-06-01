@@ -1,4 +1,4 @@
-22505191863057920
+22506845971519970
 ADS1115IRUGR
 ADS1115IRUGR
 
@@ -539,12 +539,26 @@ SPECTACLE_LOGO_TITLE_0.35X0.70
 0
 0
 Ardupi
+ADS1115IRUGR
+
+
+0
+6
+6
+Ardupi
 PWM-Header-3x4
 
 
 0
 12
 12
+Ardupi
+QFN65P600X600X100-29N
+
+
+0
+29
+29
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95556,13 +95570,6 @@ PCA9685PW
 0
 28
 28
-mpu9650
-mpu9650
-
-
-0
-25
-25
 pca9685BS
 QFN65P600X600X100-29N
 
