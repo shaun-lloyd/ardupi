@@ -1,25 +1,32 @@
-6616598278861
+13234009901900
 Ardupi
-ADS1115IRUGR
+ADS1115IRUGT
 
 
 0
 6
 6
 Ardupi
-PWM-Header-3x4
+CAT24C256HU4IGT3
 
 
 0
-12
-12
+9
+9
 Ardupi
-QFN65P600X600X100-29N
+PCA9685BS_118
 
 
 0
 29
 29
+Ardupi
+TSW-104-08-G-T-RA
+
+
+0
+12
+12
 Ardupi
 TSW-108-08-L-T-RA
 
@@ -27,3 +34,24 @@ TSW-108-08-L-T-RA
 0
 24
 24
+Ardupi
+ULN2803ADWR
+
+
+0
+18
+18
+Ardupi
+bmp280
+
+
+0
+8
+8
+Ardupi
+mpu9250
+
+
+0
+25
+25
