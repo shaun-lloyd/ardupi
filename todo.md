@@ -1,5 +1,4 @@
 # TODO: v0.1 Release
-ArduPi-0.1 == OBAL
 
 Initial porting of OBAL component modules to IC's on board is progressing.
 Main schematic is almost complete.
