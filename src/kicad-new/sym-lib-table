@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "ArduPi")(type "KiCad")(uri "${KIPRJMOD}/ArduPi.kicad_sym")(options "")(descr ""))
-)
