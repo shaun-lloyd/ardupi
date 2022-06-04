@@ -15,20 +15,20 @@ ArduPi-v0.1 == OBAL
 
 ## Development
 
-Kicad-v6.0
+Everything in the entire toolchain must be free software. No dependancy on any non-free software is acceptable.
 
-Linux is the focus however Kicad is available on windows so there is no reason developement couldn't be done on windows.
+The board itself is developed using Kicad v6.0 on both ubuntu and windows.
 
-As long as anything done on windows is "do-able" on linux then that's cool.
+Linux is the focus however Kicad is available on mac & windows so there is no reason developement couldn't be done any OS and indeed is. As long as anything done on windows is "do-able" on linux then that's cool.
 
 
 ## Status
 
-Please see roadmap.
+Please see todo/roadmap.
 
 ## Problem i'm trying to solve
 
-General "user" complexity of the rc/ardupilot ecosystem.
+General "user" complexity of an rc/ardupilot vehicle/ground station.
 
 While the complexity is good from many perspectives especially ardupilot showing support for an ever growning number 
 of technologies.
@@ -99,7 +99,7 @@ Any and all feedback is encouraged.
 
 Anyone with electronics experience can look over our shematics and crtique or even better suggest better circuits or components.
 
-1. Proof the schematics we have for 0.1.
+1. QA our schematics/pcb layout.
 
 2. I plan to add ExpressLRS,ADSB,GPS,optical flow,lidar & airspeed sensor. So anyone with expertise and some spare time willing to
 share would be really appreciated.
@@ -107,4 +107,6 @@ share would be really appreciated.
 Help documenting and organise schematics such that new users in particular can easily understand and fork.
 
 Suggest better IC's, sensors and features.
+
+Thanks.
 
