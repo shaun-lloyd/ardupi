@@ -69,7 +69,8 @@ This hardware is designed as OPAL reference.
 
 ### Hardware Specification
 
-RpiZero2W footprint.
+Raspberry Pi 4b hat.
+
 - PCA9685:pwm
 - ULN2803:led,buzzer
 - ADS1115:current voltage sensor
