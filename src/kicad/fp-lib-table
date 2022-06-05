@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Ardupi")(type "KiCad")(uri "${KIPRJMOD}/Ardupi.pretty")(options "")(descr ""))
+)
