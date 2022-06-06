@@ -1,4 +1,4 @@
-20234171286736814
+20235825786053718
 Ardupi
 ADS1115IDGSR
 
@@ -83,6 +83,13 @@ mpu9250
 0
 25
 25
+Ardupi
+ublox_NEO
+ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
+GPS ublox NEO 6/7/8
+0
+24
+24
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
