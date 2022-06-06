@@ -1,0 +1,94 @@
+Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R22:'.
+Info: Processing symbol 'R21:'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SJ_A3:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'U6:Ardupi:bmp280'.
+Info: Processing symbol 'U5:Ardupi:mpu9250'.
+Info: Processing symbol 'U4:Ardupi:ADS1115IRUGT'.
+Info: Processing symbol 'U3:Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm'.
+Info: Processing symbol 'U2:Ardupi:ULN2803ADWR'.
+Info: Processing symbol 'U1:Ardupi:CAT24C256HU4IGT3'.
+Info: Processing symbol 'SJ_A6:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'SJ_A5:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'SJ_A4:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'SJ_A2:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'SJ_A1:Ardupi:SOLDERJUMPER_REFLOW_NOPASTE'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'J11:Ardupi:TSW-108-08-L-T-RA'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J2:Connector_JST:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical'.
+Info: Processing symbol 'J3:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'J4:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J6:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'J7:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'J8:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J9:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J10:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'JP2:'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C_PCA1:Capacitor_SMD:CP_Elec_8x5.4'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Add SJ_A3 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Add SJ_A4 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Add SJ_A5 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Add net unconnected-(J1-Pad28).
+Add SJ_A6 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Change U3 footprint from 'Ardupi:PCA9685BS_118' to 'Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm'.
+Reconnect U5 pin 18 from unconnected-(U5-Pad18) to GND.
+Remove unused footprint R4.
+Remove unused footprint R3.
+Add SJ_A2 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Add R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Add R10 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Add R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Add R5 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Add R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Add R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Reconnect J1 pin 28 from /ID_SCL to unconnected-(J1-Pad28).
+Reconnect J1 pin 27 from /ID_SDA to unconnected-(J1-Pad27).
+Add net unconnected-(J1-Pad27).
+Update J1 symbol association from /00000000-0000-0000-0000-000059ad464a to /6bf544f0-1a30-4eab-926d-57c7d6804bcc.
+Change J1 value from GPIO to RPI-4B-Header.
+Add SJ_A1 (footprint 'Ardupi:SOLDERJUMPER_REFLOW_NOPASTE').
+Update C_PCA1 symbol association from /76d510f1-698e-44cb-afd6-12eaa783cf96 to /5cbbb594-b1bf-44ef-8dcb-9fca84ec0b0a.
+Error: Cannot add R22 (no footprint assigned).
+Error: Cannot add R21 (no footprint assigned).
+Error: Cannot add JP2 (no footprint assigned).
+Error: Cannot add C9 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 4.
