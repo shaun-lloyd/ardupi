@@ -1,0 +1,5 @@
+VSS = GND
+VDD = Power Input
+SCL = Input
+SDA = Bidirectional
+A0  = Input
