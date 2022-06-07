@@ -4,7 +4,7 @@
 
 0.1
 	- Schematic draft almost complete, need power managment and QC.
-	- Getting Mohammad to code / schematic review.
+	- Need schematic review.
 	- Selecting parts from JLCPCB
 	- pcb layout
 	- Need addition review.
