@@ -22,7 +22,7 @@
 ## ArduPi-0.2	RP2040
 
 - replace pca/ads/uln with RP2040. If this is indeed viable, enough channels etc.
-- potental sensor upgrade, imu0650 is eol.
+- potental sensor upgrade, mpu9650 is eol.
 
 ## ArduPi-0.3	CM4+radio
 
