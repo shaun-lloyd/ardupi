@@ -1,4 +1,4 @@
-20237480288322651
+20235829048488451
 Ardupi
 ADS1115IDGSR
 
@@ -7,12 +7,12 @@ ADS1115IDGSR
 10
 10
 Ardupi
-ADS1115IRUGT
+BMP280
 
 
 0
-6
-6
+8
+8
 Ardupi
 CAT24C32WI-GT3
 
@@ -21,54 +21,61 @@ CAT24C32WI-GT3
 8
 8
 Ardupi
-CAT24C256HU4IGT3
+MPU-9250
 
 
 0
-9
-9
+25
+25
 Ardupi
-PCA9685BS_118
-
-
-0
-29
-29
-Ardupi
-PCA9685PW_118
+PCA9685PW
 
 
 0
 28
 28
 Ardupi
-RFM95W-868S2
+PWM_Header
+
+
+0
+24
+24
+Ardupi
+RFM95W-915S2
 
 
 0
 16
 16
 Ardupi
-SOLDERJUMPER_REFLOW_NOPASTE
+RPI Header
 
 
+0
+0
+0
+Ardupi
+RPI_header_2x20_P2.54mm_Vertical
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+Ardupi
+RPI_header_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x20 2.54mm double row
+0
+40
+40
+Ardupi
+SolderJumper-Open_Pad
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
 0
 2
 2
-Ardupi
-TSW-104-08-G-T-RA
-
-
-0
-12
-12
-Ardupi
-TSW-108-08-L-T-RA
-
-
-0
-24
-24
 Ardupi
 ULN2803ADWR
 
@@ -76,20 +83,6 @@ ULN2803ADWR
 0
 18
 18
-Ardupi
-bmp280
-
-
-0
-8
-8
-Ardupi
-mpu9250
-
-
-0
-25
-25
 Ardupi
 ublox_NEO
 ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
