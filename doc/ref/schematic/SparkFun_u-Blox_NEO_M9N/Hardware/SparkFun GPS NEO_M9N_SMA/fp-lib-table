@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SparkFun GPS NEO_M9N_SMA")(type "KiCad")(uri "")(options "")(descr ""))
+)
