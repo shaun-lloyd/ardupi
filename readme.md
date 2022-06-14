@@ -38,6 +38,10 @@ Raspberry Pi 4b hat.
 - IMU9650:IMU
 - BMP280:Barometer
 
+### Module
+- GPS:ublox module
+- ExpressLRS
+
 ### Connections
 - ?6S 25V input. Bypass circuit for driving motors and BEC with ?5v@6a
 - +5V@3A input
@@ -62,7 +66,7 @@ Anyone with electronics experience can look over our shematics and crtique or ev
 
 1. QA our schematics/pcb layout.
 
-2. I plan to add ExpressLRS,ADSB,GPS,optical flow,lidar & airspeed sensor. So anyone with expertise and some spare time willing to
+2. I would like to include ADSB,optical flow,lidar & airspeed sensor. So anyone with expertise and some spare time willing to
 share would be really appreciated.
 
 Help documenting and organise schematics such that new users in particular can easily understand and fork.
