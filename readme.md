@@ -1,6 +1,6 @@
 ﻿# ArduPi, Ardupilot + Raspberry Pi
 
-ArduPi is an open hardware/software Raspberry Pi shield with all the components to run ardupilot.
+ArduPi is an Raspberry Pi hat with sensors and drivers to run ardupilot.
 
 Based entirely on work and with the guidance and lead of [Muhammad Hefny, OBAL](https://github.com/HefnySco/OBAL "Muhammad Hefny, OBAL").
 
@@ -12,73 +12,36 @@ This project stands on the ardupilot & raspberry pi platforms, ardupilot in part
 
 ArduPi-v0.1 == OBAL
 
-
 ## Development
 
-Everything in the entire toolchain must be free software. No dependancy on any non-free software is acceptable.
+Everything in the entire toolchain must be free software. No dependancy on any non-free software is acceptable. With exception of ardupilot:matlab. "I would really love to hear from anyone that can suggest or give advise on how to or the process involved in porting the current control theory to a free software platform, potential financial support is available to any project that can resonable accomplish this task".
 
 The board itself is developed using Kicad v6.0 on both ubuntu and windows.
 
 Linux is the focus however Kicad is available on mac & windows so there is no reason developement couldn't be done any OS and indeed is. As long as anything done on windows is "do-able" on linux then that's cool.
 
 
-## Status
-
-Please see todo/roadmap.
-
-## Problem i'm trying to solve
-
-General "user" complexity of an rc/ardupilot vehicle/ground station.
-
-While the complexity is good from many perspectives especially ardupilot showing support for an ever growning number 
-of technologies.
-
-Traditional RC vehicles have been controlled via RF thru opentx "an outstanding contribution to the community".
-
-For FPV also another RF thru some propritary video Tx Rx solution.
-
-Each of these elements have there own firmware, configuration and intergration considerations. While thankfully the RC world is
-full of open source technology it is still litered like most domains with non-free proprietary tech.
-
-This leaves the user, in particular the linux user with a world of pain and non-ending issues to deal with. In many cases with
-no hope in sight.
-
-
-## Elements required for Solution
-Interestingly all these features exists in the community in various implementations using various technologies.
-
-ArduPi is a distribution of many open source projects much like ubuntu is a linux distribution.
-
-1. Support for "standard" PC/BT/USB controllers.
-2. IP-streaming HD-video.
-	- For <25ms latency use S-video out on raspberry pi, simple use existing solutions to transmit and recieve this real-real-time
-		signal on gear the user all-ready has.
-	- Currently webrtc considers real-time to be <200ms, this isn't quite good enough. Open.HD is getting <150ms latency.
-	- I believe with the continued work of the community it wouldn't be unresonable to see <100ms in the near future.
-	- ArduPi plans to allow for both configurations eg: analog & HD. Best of both worlds.
-3. Simple ground station.
-	- linux host(s)
-
-
 ## Solution: ArduPi
 The Raspberry pi platform requires some additional hardware to be able to control a vehicle.
 The RPI handles ardupilot-cpu / comms:control-telemetry-video, and ardupi handles everything else.
 
-This hardware is designed as OPAL reference.
+This hardware is designed using OBAL reference.
 
 
 ### Hardware Specification
 
 Raspberry Pi 4b hat.
 
-- PCA9685:pwm
+### IC
 - ULN2803:led,buzzer
 - ADS1115:current voltage sensor
 - IMU9650:IMU
 - BMP280:Barometer
 
 ### Connections
+- ?6S 25V input. Bypass circuit for driving motors and BEC with ?5v@6a
 - +5V@3A input
+- PWM:pca9685
 - ESC
 - UART
 - I2C
@@ -90,9 +53,6 @@ Raspberry Pi 4b hat.
 
 ### Software
 TODO
-
-## Future
-Please see roadmap.
 
 ## How you can help :)
 
@@ -110,4 +70,3 @@ Help documenting and organise schematics such that new users in particular can e
 Suggest better IC's, sensors and features.
 
 Thanks.
-

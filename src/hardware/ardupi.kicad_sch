@@ -29144,7 +29144,7 @@
   (symbol (lib_id "power:GND") (at 203.2 184.15 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a18edab4-f7a9-488f-a340-88811b183e09)
-    (property "Reference" "#PWR?" (id 0) (at 209.55 184.15 0)
+    (property "Reference" "#PWR0101" (id 0) (at 209.55 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 207.01 184.1499 90)
@@ -29198,7 +29198,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 184.15 189.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ab79a492-72c9-4e3b-b501-8324a1371358)
-    (property "Reference" "J?" (id 0) (at 184.15 176.53 0))
+    (property "Reference" "J4" (id 0) (at 184.15 176.53 0))
     (property "Value" "Conn_01x06" (id 1) (at 184.0673 179.1863 0))
     (property "Footprint" "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical" (id 2) (at 184.15 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -29317,7 +29317,7 @@
   (symbol (lib_id "power:+5V") (at 203.2 194.31 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bdac05d3-15d9-4f6c-93df-258fd6a0692d)
-    (property "Reference" "#PWR?" (id 0) (at 199.39 194.31 0)
+    (property "Reference" "#PWR0102" (id 0) (at 199.39 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 207.01 194.3099 90)
@@ -29714,10 +29714,10 @@
       (reference "#PWR046") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/a18edab4-f7a9-488f-a340-88811b183e09"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/bdac05d3-15d9-4f6c-93df-258fd6a0692d"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
     (path "/55a63010-7245-47fd-91a8-542e6efde2f6"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L")
@@ -29752,6 +29752,9 @@
     (path "/6bf544f0-1a30-4eab-926d-57c7d6804bcc"
       (reference "J3") (unit 1) (value "RPI-4B-Header") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
+    (path "/ab79a492-72c9-4e3b-b501-8324a1371358"
+      (reference "J4") (unit 1) (value "Conn_01x06") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
+    )
     (path "/09a5f313-2b7e-404f-9c26-6d5b0ca95352"
       (reference "J5") (unit 1) (value "Conn_01x02") (footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical")
     )
@@ -29766,9 +29769,6 @@
     )
     (path "/901a2fe0-5afd-4d71-807e-42fe57fd7f66"
       (reference "J9") (unit 1) (value "Conn_01x10") (footprint "Connector_JST:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical")
-    )
-    (path "/ab79a492-72c9-4e3b-b501-8324a1371358"
-      (reference "J?") (unit 1) (value "Conn_01x06") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
     )
     (path "/50a08401-b596-4416-817f-d0a8bf45f264"
       (reference "M1") (unit 1) (value "NEO-M8Q-01A") (footprint "Ardupi:ublox_NEO")
