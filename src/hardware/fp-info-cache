@@ -1,4 +1,4 @@
-20235829048488451
+20232526110398667
 Ardupi
 ADS1115IDGSR
 
@@ -28,16 +28,9 @@ MPU-9250
 25
 25
 Ardupi
-PCA9685PW
-
-
-0
-28
-28
-Ardupi
-PWM_Header
-
-
+NEO-M8Q-01A
+ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
+GPS ublox NEO 6/7/8
 0
 24
 24
@@ -48,13 +41,6 @@ RFM95W-915S2
 0
 16
 16
-Ardupi
-RPI Header
-
-
-0
-0
-0
 Ardupi
 RPI_header_2x20_P2.54mm_Vertical
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
@@ -77,19 +63,19 @@ solder jumper open
 2
 2
 Ardupi
-ULN2803ADWR
+TPS54360BDDAR
 
 
 0
-18
-18
+9
+9
 Ardupi
-ublox_NEO
-ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
-GPS ublox NEO 6/7/8
+ULN2803ADWR-tmp
+
+
 0
-24
-24
+18
+18
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)

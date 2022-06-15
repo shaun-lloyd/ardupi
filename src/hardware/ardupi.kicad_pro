@@ -340,8 +340,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Ardupi"
+    ],
+    "pinned_symbol_libs": [
+      "ArduPi"
+    ]
   },
   "meta": {
     "filename": "ardupi.kicad_pro",
