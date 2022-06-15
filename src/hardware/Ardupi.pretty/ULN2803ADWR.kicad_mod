@@ -1,4 +1,4 @@
-(footprint "ULN2803ADWR-tmp" (version 20211014) (generator pcbnew)
+(footprint "ULN2803ADWR" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)
