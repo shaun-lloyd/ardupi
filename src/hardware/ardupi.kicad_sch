@@ -31630,7 +31630,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 930dd7bf-3b3a-4d0a-a049-195a3513706a)
   )
-  (text "Battery Input" (at 353.06 27.94 0)
+  (text "BATTERY" (at 353.06 27.94 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 94f67591-5e33-4133-a810-3ea70160bd3d)
   )
