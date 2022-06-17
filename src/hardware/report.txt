@@ -1,680 +1,112 @@
-Info: Processing symbol 'R29:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'J6:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'M2:Ardupi:NEO-M8Q-01A'.
 Info: Processing symbol 'M1:Ardupi:RFM95W-915S2'.
 Info: Processing symbol 'L1:'.
-Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'C13:'.
-Info: Processing symbol 'U6:Ardupi:BMP280'.
-Info: Processing symbol 'J4:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
-Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'C11:'.
-Info: Processing symbol 'C10:'.
-Info: Processing symbol 'C9:'.
-Info: Processing symbol 'C8:'.
-Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'U2:Ardupi:ULN2803ADWR'.
-Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'U5:Ardupi:MPU-9250'.
-Info: Processing symbol 'M2:Ardupi:NEO-M8Q-01A'.
-Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical'.
-Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'U4:Ardupi:TPS54360BDDAR'.
-Info: Processing symbol 'J2:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
-Info: Processing symbol 'SJ7:Ardupi:SolderJumper-Open_Pad'.
-Info: Processing symbol 'R26:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'J1:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
-Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R27:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'U3:Ardupi:ADS1115IDGSR'.
-Info: Processing symbol 'D1:Ardupi:B560C-13-F'.
-Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R28:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'J5:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
-Info: Processing symbol 'U1:Ardupi:CAT24C32WI-GT3'.
-Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'R32:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'C1:Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L'.
-Info: Processing symbol 'J8:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
-Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'J6:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
-Info: Processing symbol 'C4:'.
-Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'J7:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
-Info: Processing symbol 'C6:'.
-Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
 Info: Processing symbol 'J9:Connector_JST:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical'.
-Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
-Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
-Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'J8:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'J7:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'J5:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J4:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'J1:Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'D1:Ardupi:B560C-13-F'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'U5:Ardupi:MPU-9250'.
+Info: Processing symbol 'U4:Ardupi:TPS54360BDDAR'.
+Info: Processing symbol 'U3:Ardupi:ADS1115IDGSR'.
+Info: Processing symbol 'U2:Ardupi:ULN2803ADWR'.
+Info: Processing symbol 'U1:Ardupi:CAT24C32WI-GT3'.
+Info: Processing symbol 'SJ7:Ardupi:SolderJumper-Open_Pad'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0402_1005Metric'.
 Info: Processing symbol 'R30:Resistor_SMD:R_0402_1005Metric'.
-Changed R26 value from R_0402_1005Metric to 10K.
-Changed REF** reference designator to R17.
-Connected R18 pin 2 to GND.
-Updated R32 symbol association from  to /bad9bbd4-1d70-4d7f-ac27-d48dbc17d911.
-Added R26 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R26.
-Connected R18 pin 1 to FB.
-Updated R26 symbol association from  to /f8c07ad0-0e09-4700-ad04-1e6f62807be8.
-Updated R26 properties.
-Changed R32 value from R_0402_1005Metric to 10KΩ.
-Added R15 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected R26 pin 1 to +5V.
-Connected R32 pin 2 to GND.
-Connected R32 pin 1 to /SPI_MISO.
-Updated R18 properties.
-Updated R18 symbol association from  to /c38aa303-e8b2-4669-ad38-c69fb08a79ca.
-Changed R17 value from R_0402_1005Metric to 53.6 k.
-Updated R17 symbol association from  to /6210cf11-dff1-4fac-b2c8-c5c0e47cdb6f.
-Changed R18 value from R_0402_1005Metric to 10.2 k.
-Updated R17 properties.
-Changed REF** reference designator to R18.
-Added R18 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected R17 pin 1 to VOUT.
-Updated R32 properties.
-Connected R17 pin 2 to FB.
-Connected R30 pin 1 to +3V3.
-Connected R29 pin 2 to /SPI_MOSI.
-Connected R29 pin 1 to +3V3.
-Updated R29 properties.
-Added R30 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Updated R29 symbol association from  to /e7adebdc-a2f7-4987-a1ba-2216f58331ec.
-Changed REF** reference designator to R30.
-Changed R29 value from R_0402_1005Metric to 4.7KΩ.
-Changed REF** reference designator to R29.
-Added R29 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed R30 value from R_0402_1005Metric to 4.7KΩ.
-Updated R30 symbol association from  to /963dc38c-72d2-422c-98b4-009ab9b69cd9.
-Connected R28 pin 2 to /SPI_CE1_N.
-Connected R28 pin 1 to +3V3.
-Updated R30 properties.
-Updated R28 properties.
-Connected R26 pin 2 to Net-(J5-Pad2).
-Updated R28 symbol association from  to /f47a0fdb-fc8d-4236-9da5-ed89e88a9dcd.
-Connected R30 pin 2 to /SPI_SCLK.
-Changed R28 value from R_0402_1005Metric to 4.7KΩ.
-Changed REF** reference designator to R28.
-Added R28 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected R27 pin 2 to Net-(J5-Pad2).
-Connected R27 pin 1 to /PCA_EN.
-Updated R27 properties.
-Updated R27 symbol association from  to /7c169481-8c2f-40c8-a3a2-12ad994ba20a.
-Changed R27 value from R_0402_1005Metric to 460.
-Added R32 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R27.
-Changed REF** reference designator to R32.
-Added R27 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed R10 value from R_0402_1005Metric to 10KΩ.
-Added R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R9.
-Changed R9 value from R_0402_1005Metric to 10KΩ.
-Updated R9 symbol association from  to /0f4ff664-d0c4-4e63-aedd-a9653e89948f.
-Updated R9 properties.
-Connected R9 pin 1 to Net-(R9-Pad1).
-Connected R9 pin 2 to +5V.
-Added R10 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R10.
-Connected R8 pin 2 to Net-(C10-Pad1).
-Updated R10 symbol association from  to /d29bd30b-be3f-4401-91e7-33ed28a706a9.
-Updated R10 properties.
-Connected R10 pin 1 to GND.
-Connected R10 pin 2 to Net-(R10-Pad2).
-Added R11 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R11.
-Changed R11 value from R_0402_1005Metric to 1k.
-Updated R11 symbol association from  to /709bc65f-6868-4659-a21d-7b214717259e.
-Updated R7 properties.
-Changed R6 value from R_0402_1005Metric to 10KΩ.
-Updated R6 symbol association from  to /0db0d1b4-a093-4e13-9159-eb7307e09ff8.
-Updated R6 properties.
-Connected R6 pin 1 to /SPI_CEO_N.
-Connected R6 pin 2 to +3V3.
-Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R7.
-Changed R7 value from R_0402_1005Metric to 10KΩ.
-Updated R7 symbol association from  to /f74c6cf1-e60a-4ffb-abba-b4f21cedcc26.
-Updated R11 properties.
-Connected R7 pin 1 to Net-(R7-Pad1).
-Connected R7 pin 2 to +5V.
-Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R8.
-Changed R8 value from R_0402_1005Metric to 13 k.
-Updated R8 symbol association from  to /a2848899-80e9-48dc-851c-4e9340cf81cd.
-Updated R8 properties.
-Connected R8 pin 1 to Net-(C9-Pad2).
-Connected R15 pin 1 to +5V.
-Updated R14 symbol association from  to /d7f38428-b5d0-443f-9732-e20c2ab596b8.
-Updated R14 properties.
-Connected R14 pin 1 to /SCL1.
-Connected R14 pin 2 to +5V.
-Updated U1 properties.
-Changed REF** reference designator to R15.
-Changed R15 value from R_0402_1005Metric to 10KΩ.
-Updated R15 symbol association from  to /6de4f2de-24be-4ff5-9e20-c72bafc9db49.
-Updated R15 properties.
-Changed R14 value from R_0402_1005Metric to 10KΩ.
-Connected R15 pin 2 to /SDA1.
-Added R16 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R16.
-Changed R16 value from R_0402_1005Metric to 10KΩ.
-Updated R16 symbol association from  to /9d1c6934-6bd3-402a-b32e-f6d2e33c3327.
-Updated R16 properties.
-Connected R16 pin 1 to GND.
-Connected R16 pin 2 to /SPI_MISO.
-Added R13 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected R11 pin 1 to Net-(R11-Pad1).
-Connected R11 pin 2 to +3V3.
-Added R12 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R12.
-Changed R12 value from R_0402_1005Metric to 3.9k.
-Updated R12 symbol association from  to /a5fcade8-d5aa-4620-8b2e-a7d90949a6e7.
-Updated R12 properties.
-Connected R12 pin 1 to /ID_SD.
-Connected R12 pin 2 to +3V3.
-Added R17 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R13.
-Changed R13 value from R_0402_1005Metric to 3.9k.
-Updated R13 symbol association from  to /36bb3301-ce3b-4901-b296-58c125b59e84.
-Updated R13 properties.
-Connected R13 pin 1 to +3V3.
-Connected R13 pin 2 to /ID_SC.
-Added R14 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R14.
-Connected U5 pin 21 to unconnected-(U5-Pad21).
-Connected U5 pin 16 to unconnected-(U5-Pad16).
-Add net unconnected-(U5-Pad17).
-Connected U5 pin 17 to unconnected-(U5-Pad17).
-Add net unconnected-(U5-Pad18).
-Connected U5 pin 18 to unconnected-(U5-Pad18).
-Add net unconnected-(U5-Pad19).
-Connected U5 pin 19 to unconnected-(U5-Pad19).
-Add net unconnected-(U5-Pad20).
-Connected U5 pin 20 to unconnected-(U5-Pad20).
-Add net unconnected-(U5-Pad21).
-Add net unconnected-(U5-Pad16).
-Connected U5 pin 22 to /SPI_CEO_N.
-Connected U5 pin 23 to /SPI_SCLK.
-Connected U5 pin 24 to /SPI_MOSI.
-Added U6 (footprint 'Ardupi:BMP280').
-Changed REF** reference designator to U6.
-Updated U6 symbol association from  to /06a38a90-e3ac-44fc-bea1-42068d28d43a.
-Updated U6 properties.
-Connected U6 pin 1 to GND.
-Connected U6 pin 2 to /SPI_CE1_N.
-Connected U5 pin 10 to Net-(C12-Pad2).
-Connected U5 pin 4 to unconnected-(U5-Pad4).
-Add net unconnected-(U5-Pad5).
-Connected U5 pin 5 to unconnected-(U5-Pad5).
-Add net unconnected-(U5-Pad6).
-Connected U5 pin 6 to unconnected-(U5-Pad6).
-Add net unconnected-(U5-Pad7).
-Connected U5 pin 7 to unconnected-(U5-Pad7).
-Connected U5 pin 8 to +3V3.
-Connected U5 pin 9 to /SPI_MISO.
-Connected U6 pin 3 to /SPI_MOSI.
-Connected U5 pin 11 to Net-(R10-Pad2).
-Add net unconnected-(U5-Pad12).
-Connected U5 pin 12 to unconnected-(U5-Pad12).
-Add net unconnected-(U5-Pad13).
-Connected U5 pin 13 to unconnected-(U5-Pad13).
-Add net unconnected-(U5-Pad14).
-Connected U5 pin 14 to unconnected-(U5-Pad14).
-Add net unconnected-(U5-Pad15).
-Connected U5 pin 15 to unconnected-(U5-Pad15).
-Removed unused net unconnected-(U6-Pad2).
-Removed unused net unconnected-(U4-Pad8).
-Removed unused net unconnected-(U4-Pad9).
-Removed unused net unconnected-(U6-Pad12).
-Removed unused net unconnected-(U6-Pad13).
-Removed unused net unconnected-(U6-Pad14).
-Removed unused net unconnected-(U6-Pad15).
-Removed unused net unconnected-(U6-Pad16).
-Removed unused net unconnected-(U6-Pad17).
-Removed unused net unconnected-(U6-Pad18).
-Removed unused net unconnected-(U6-Pad19).
-Removed unused net unconnected-(U4-Pad7).
-Removed unused net unconnected-(U6-Pad20).
-Removed unused net unconnected-(U6-Pad21).
-Removed unused net unconnected-(U6-Pad3).
-Removed unused net unconnected-(U6-Pad4).
-Removed unused net unconnected-(U6-Pad5).
-Removed unused net unconnected-(U6-Pad6).
-Removed unused net unconnected-(U6-Pad7).
-Removed unused net unconnected-(U7-Pad1).
-Removed unused net unconnected-(U7-Pad8).
-Removed unused net unconnected-(U4-Pad12).
-Connected U6 pin 4 to /SPI_SCLK.
-Connected U6 pin 5 to /SPI_MISO.
-Connected U6 pin 6 to +3V3.
-Connected U6 pin 7 to GND.
-Connected U6 pin 8 to +3V3.
-Removed unused net VIN.
-Removed unused net unconnected-(U4-Pad1).
-Removed unused net unconnected-(U4-Pad10).
-Removed unused net unconnected-(U4-Pad11).
-Add net unconnected-(U5-Pad4).
-Removed unused net unconnected-(U4-Pad13).
-Removed unused net unconnected-(U4-Pad14).
-Removed unused net unconnected-(U4-Pad15).
-Removed unused net unconnected-(U4-Pad16).
-Removed unused net unconnected-(U4-Pad2).
-Removed unused net unconnected-(U4-Pad3).
-Removed unused net unconnected-(U4-Pad4).
-Removed unused net unconnected-(U4-Pad5).
-Removed unused net unconnected-(U4-Pad6).
-Connected U2 pin 6 to /LED2.
-Added U2 (footprint 'Ardupi:ULN2803ADWR').
-Changed REF** reference designator to U2.
-Changed U2 value from DW18 to ULN2803ADWR.
-Updated U2 symbol association from  to /62419afc-9981-48fd-be29-757492515fe7.
-Updated U2 properties.
-Connected U2 pin 1 to /BUZZER.
-Connected U2 pin 2 to /BUZZER.
-Connected U2 pin 3 to /LED1.
-Connected U2 pin 4 to /LED1.
-Connected U2 pin 5 to /LED2.
-Connected U1 pin 8 to +3V3.
-Connected U2 pin 7 to /LED3.
-Connected U2 pin 8 to /LED3.
-Connected U2 pin 9 to GND.
-Connected U2 pin 10 to V_EXT.
-Connected U2 pin 11 to /LED3_OUT.
-Connected U2 pin 12 to /LED3_OUT.
-Connected U2 pin 13 to /LED2_OUT.
-Connected U2 pin 14 to /LED2_OUT.
-Connected U2 pin 15 to /LED1_OUT.
-Changed U1 value from SOIC8_ONS to CAT24C32WI-GT3.
-Changed REF** reference designator to SJ7.
-Changed SJ7 value from SolderJumper-OP to SolderJumper-Open_Pad.
-Updated SJ7 symbol association from  to /7833905d-dbba-42c4-b53e-028a819f921a.
-Updated SJ7 properties.
-Removed SJ7 'exclude from BOM' fabrication attribute.
-Connected SJ7 pin 1 to GND.
-Connected SJ7 pin 2 to Net-(R11-Pad1).
-Added U1 (footprint 'Ardupi:CAT24C32WI-GT3').
-Changed REF** reference designator to U1.
-Connected U2 pin 16 to /LED1_OUT.
-Updated U1 symbol association from  to /407683a6-459b-40df-a2e6-57c1d4be919c.
-Changed REF** reference designator to R4.
-Connected U1 pin 1 to GND.
-Connected U1 pin 2 to GND.
-Connected U1 pin 3 to GND.
-Connected U1 pin 4 to GND.
-Connected U1 pin 5 to /ID_SD.
-Connected U1 pin 6 to /ID_SC.
-Connected U1 pin 7 to Net-(R11-Pad1).
-Added U5 (footprint 'Ardupi:MPU-9250').
-Updated U4 properties.
-Connected U4 pin 1 to Net-(C8-Pad2).
-Connected U4 pin 2 to ESC_VIN.
-Connected U4 pin 3 to Net-(R1-Pad2).
-Connected U4 pin 4 to Net-(R3-Pad1).
-Connected U4 pin 5 to FB.
-Connected U4 pin 6 to Net-(C10-Pad1).
-Connected U4 pin 7 to Net-(C11-Pad1).
-Connected U4 pin 8 to Net-(C8-Pad1).
-Updated U4 symbol association from  to /562847e2-13a5-4e5f-a203-e86d991704dd.
-Changed REF** reference designator to U5.
-Changed U5 value from MPU9250 to MPU-9250.
-Updated U5 symbol association from  to /66b002dd-9978-4d9b-a3ce-e3afc4a7de57.
-Updated U5 properties.
-Connected U5 pin 1 to +3V3.
-Add net unconnected-(U5-Pad2).
-Connected U5 pin 2 to unconnected-(U5-Pad2).
-Add net unconnected-(U5-Pad3).
-Connected U5 pin 3 to unconnected-(U5-Pad3).
-Connected U3 pin 4 to /AIO0.
-Connected U2 pin 17 to /BUZZER_OUT.
-Connected U2 pin 18 to /BUZZER_OUT.
-Added U3 (footprint 'Ardupi:ADS1115IDGSR').
-Changed REF** reference designator to U3.
-Updated U3 symbol association from  to /998a7184-5279-4bac-a9e8-11b9ce67d27d.
-Updated U3 properties.
-Connected U3 pin 1 to Net-(R9-Pad1).
-Connected U3 pin 2 to Net-(R7-Pad1).
-Connected U3 pin 3 to GND.
-Added SJ7 (footprint 'Ardupi:SolderJumper-Open_Pad').
-Connected U3 pin 5 to /AIO1.
-Connected U3 pin 6 to /SCL1.
-Connected U3 pin 7 to /SDA1.
-Connected U3 pin 8 to +5V.
-Connected U3 pin 9 to /AIO3.
-Connected U3 pin 10 to /AIO2.
-Added U4 (footprint 'Ardupi:TPS54360BDDAR').
-Changed REF** reference designator to U4.
-Changed U4 value from U_DDA_TEX to TPS54360BDDAR.
-Connected J3 pin 18 to /GPIO24.
-Connected J3 pin 9 to GND.
-Connected J3 pin 10 to /GPIO15_RXD0.
-Connected J3 pin 11 to /SRVO_EN.
-Connected J3 pin 12 to /GPIO18_GEN1.
-Connected J3 pin 13 to /LED1.
-Connected J3 pin 14 to GND.
-Connected J3 pin 15 to /LED2.
-Connected J3 pin 16 to /GPIO23.
-Connected J3 pin 17 to +3V3.
-Connected J3 pin 8 to /GPIO14_TXD0.
-Connected J3 pin 19 to /SPI_MOSI.
-Connected J3 pin 20 to GND.
-Connected J3 pin 21 to /SPI_MISO.
-Connected J3 pin 22 to /GPIO25_GEN6.
-Connected J3 pin 23 to /SPI_SCLK.
-Connected J3 pin 24 to /SPI_CE0_N.
-Connected J3 pin 25 to GND.
-Connected J3 pin 26 to /SPI_CE1_N.
-Connected J3 pin 27 to /ID_SD.
-Changed J3 value from PinSocket_2x20_P2.54mm_Vertical to RPI-4B-Header.
-Updated J2 properties.
-Connected J2 pin 1 to /AIO3.
-Connected J2 pin 2 to /AIO2.
-Connected J2 pin 3 to /AIO1.
-Connected J2 pin 4 to /AIO0.
-Connected J2 pin 5 to GND.
-Connected J2 pin 6 to GND.
-Added J3 (footprint 'Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical').
-Changed REF** reference designator to J3.
-Connected J3 pin 28 to /ID_SC.
-Updated J3 symbol association from  to /6bf544f0-1a30-4eab-926d-57c7d6804bcc.
-Updated J3 properties.
-Connected J3 pin 1 to +3V3.
-Connected J3 pin 2 to +5V.
-Connected J3 pin 3 to /SDA1.
-Connected J3 pin 4 to +5V.
-Connected J3 pin 5 to /SCL1.
-Connected J3 pin 6 to GND.
-Connected J3 pin 7 to /LED3.
-Connected J5 pin 1 to /SRVO_EN.
-Connected J4 pin 3 to /SCL.
-Connected J4 pin 4 to /SDA.
-Connected J4 pin 5 to +5V.
-Connected J4 pin 6 to V_EXT.
-Added J5 (footprint 'Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical').
-Changed REF** reference designator to J5.
-Changed J5 value from JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical to Conn_01x02.
-Updated J5 symbol association from  to /09a5f313-2b7e-404f-9c26-6d5b0ca95352.
-Updated J5 properties.
-Connected J4 pin 2 to /PCA_EN.
-Connected J5 pin 2 to Net-(J5-Pad2).
-Added J6 (footprint 'Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical').
-Changed REF** reference designator to J6.
-Changed J6 value from JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical to Conn_01x04.
-Changed REF** reference designator to R6.
-Updated J6 properties.
-Connected J6 pin 1 to +5V.
-Connected J6 pin 2 to GND.
-Connected J6 pin 3 to /TX.
-Connected J3 pin 38 to /RC7.
-Connected J3 pin 29 to /RC1.
-Connected J3 pin 30 to GND.
-Connected J3 pin 31 to /RC2.
-Connected J3 pin 32 to /BUZZER.
-Connected J3 pin 33 to /RC3.
-Connected J3 pin 34 to GND.
-Connected J3 pin 35 to /RC4.
-Connected J3 pin 36 to /RC8.
-Connected J3 pin 37 to /RC5.
-Updated J2 symbol association from  to /43bfdd57-ee71-4936-98ab-27a4f1b6fc91.
-Connected J3 pin 39 to GND.
-Connected J3 pin 40 to /RC6.
-Added J4 (footprint 'Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical').
-Changed REF** reference designator to J4.
-Changed J4 value from JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical to Conn_01x06.
-Updated J4 symbol association from  to /ab79a492-72c9-4e3b-b501-8324a1371358.
-Updated J4 properties.
-Connected J4 pin 1 to GND.
-Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Connected C3 pin 1 to +5V.
-Connected C3 pin 2 to GND.
-Added C5 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C5.
-Changed C5 value from C_0402_1005Metric to 0.1uF.
-Updated C5 symbol association from  to /c13fa28b-92af-4cf4-bd51-1770cd9c5ca3.
-Updated C5 properties.
-Connected C5 pin 1 to +3V3.
-Connected C5 pin 2 to GND.
-Updated C3 properties.
-Changed REF** reference designator to C7.
-Changed C7 value from C_0402_1005Metric to 1uF.
-Updated C7 symbol association from  to /0871b107-6176-46e2-8d87-a5d5ec3735a7.
-Updated C7 properties.
-Connected C7 pin 1 to +3V3.
-Connected C7 pin 2 to GND.
-Added C12 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C12.
-Changed C12 value from C_0402_1005Metric to 0.1uF.
-Changed C2 value from C_0402_1005Metric to 1uF.
-Added C1 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L').
-Changed REF** reference designator to C1.
-Changed C1 value from CP_EIA-1608-10_AVX-L to 100n.
-Updated C1 symbol association from  to /55a63010-7245-47fd-91a8-542e6efde2f6.
-Updated C1 properties.
-Connected C1 pin 1 to GND.
-Connected C1 pin 2 to +3V3.
-Added C2 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C2.
-Updated C12 symbol association from  to /9f666bf6-09b4-4593-b6a6-19112dd321e0.
-Updated C2 symbol association from  to /cb6dda29-4ab3-4d82-816a-bd8e72a278ad.
-Updated C2 properties.
-Connected C2 pin 1 to +5V.
-Connected C2 pin 2 to GND.
-Added C3 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C3.
-Changed C3 value from C_0402_1005Metric to 0.1uf.
-Updated C3 symbol association from  to /7f8933ef-0472-410f-b132-d1b133b27111.
-Updated J1 symbol association from  to /8f647bff-b21b-48ac-8d7a-dcb662e88e60.
-Changed D1 value from SMC_DIO to B560C.
-Updated D1 symbol association from  to /4464c364-72b4-4c02-bc64-c21f698f672a.
-Updated D1 properties.
-Add net Net-(C8-Pad1).
-Connected D1 pin 1 to Net-(C8-Pad1).
-Connected D1 pin 2 to Net-(C11-Pad1).
-Added J1 (footprint 'Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical').
-Changed REF** reference designator to J1.
-Changed J1 value from JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical to Conn_01x05.
-Changed REF** reference designator to D1.
-Updated J1 properties.
-Connected J1 pin 1 to /BUZZER_OUT.
-Connected J1 pin 2 to /LED1_OUT.
-Connected J1 pin 3 to /LED2_OUT.
-Connected J1 pin 4 to /LED3_OUT.
-Connected J1 pin 5 to V_EXT.
-Added J2 (footprint 'Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical').
-Changed REF** reference designator to J2.
-Changed J2 value from JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical to Conn_01x06.
-Connected C14 pin 2 to GND.
-Updated C12 properties.
-Connected C12 pin 1 to GND.
-Connected C12 pin 2 to Net-(C12-Pad2).
-Added C14 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C14.
-Changed C14 value from C_0402_1005Metric to 0.01uF.
-Updated C14 symbol association from  to /98f49ea7-4798-4aa8-9ee6-4fc828e6feb9.
-Updated C14 properties.
-Connected C14 pin 1 to +3V3.
-Updated J6 symbol association from  to /3213e51f-a8e6-4516-9222-18c3577356a3.
-Added C15 (footprint 'Capacitor_SMD:C_0402_1005Metric').
-Changed REF** reference designator to C15.
-Changed C15 value from C_0402_1005Metric to 1uF.
-Updated C15 symbol association from  to /5a9f0876-9c69-4ebe-ad8f-bf3f431e8fb5.
-Updated C15 properties.
-Connected C15 pin 1 to +3V3.
-Connected C15 pin 2 to GND.
-Added D1 (footprint 'Ardupi:B560C-13-F').
-Add net unconnected-(M2-Pad18).
-Connected M2 pin 13 to GND.
-Add net unconnected-(M2-Pad14).
-Connected M2 pin 14 to unconnected-(M2-Pad14).
-Add net unconnected-(M2-Pad15).
-Connected M2 pin 15 to unconnected-(M2-Pad15).
-Add net unconnected-(M2-Pad16).
-Connected M2 pin 16 to unconnected-(M2-Pad16).
-Add net unconnected-(M2-Pad17).
-Connected M2 pin 17 to unconnected-(M2-Pad17).
-Connected M2 pin 12 to GND.
-Connected M2 pin 18 to unconnected-(M2-Pad18).
-Add net unconnected-(M2-Pad19).
-Connected M2 pin 19 to unconnected-(M2-Pad19).
-Add net unconnected-(M2-Pad20).
-Connected M2 pin 20 to unconnected-(M2-Pad20).
-Add net unconnected-(M2-Pad21).
-Connected M2 pin 21 to unconnected-(M2-Pad21).
-Add net unconnected-(M2-Pad22).
-Connected M2 pin 22 to unconnected-(M2-Pad22).
-Connected M2 pin 6 to unconnected-(M2-Pad6).
-Add net unconnected-(M2-Pad2).
-Connected M2 pin 2 to unconnected-(M2-Pad2).
-Add net unconnected-(M2-Pad3).
-Connected M2 pin 3 to unconnected-(M2-Pad3).
-Connected J6 pin 4 to /RX.
-Connected M2 pin 4 to unconnected-(M2-Pad4).
-Add net unconnected-(M2-Pad5).
-Connected M2 pin 5 to unconnected-(M2-Pad5).
-Add net unconnected-(M2-Pad6).
-Add net unconnected-(M2-Pad23).
-Add net unconnected-(M2-Pad7).
-Connected M2 pin 7 to unconnected-(M2-Pad7).
-Add net unconnected-(M2-Pad8).
-Connected M2 pin 8 to unconnected-(M2-Pad8).
-Add net unconnected-(M2-Pad9).
-Connected M2 pin 9 to unconnected-(M2-Pad9).
-Connected M2 pin 10 to GND.
-Add net unconnected-(M2-Pad11).
-Connected M2 pin 11 to unconnected-(M2-Pad11).
-Connected R4 pin 1 to /SPI_MOSI.
-Changed R3 value from R_0402_1005Metric to 162 k.
-Updated R3 symbol association from  to /5b6d791d-cadf-4766-a4c0-076bab6e4283.
-Updated R3 properties.
-Connected R3 pin 1 to Net-(R3-Pad1).
-Connected R3 pin 2 to GND.
-Added R4 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed R4 value from R_0402_1005Metric to 10KΩ.
-Updated R4 symbol association from  to /e4b12118-04cd-486b-ac7b-e6f5aeafa419.
-Updated R4 properties.
-Changed REF** reference designator to R3.
-Connected R4 pin 2 to +3V3.
-Added R5 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R5.
-Changed R5 value from R_0402_1005Metric to 10KΩ.
-Updated R5 symbol association from  to /b274a86b-719a-42bd-9604-5fe075d64e1f.
-Updated R5 properties.
-Connected R5 pin 1 to /SPI_SCLK.
-Connected R5 pin 2 to +3V3.
-Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected R1 pin 2 to Net-(R1-Pad2).
-Connected M2 pin 23 to unconnected-(M2-Pad23).
-Connected M2 pin 24 to GND.
-Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R1.
-Changed R1 value from R_0402_1005Metric to 523k.
-Updated R1 symbol association from  to /cc2aaa95-11e3-493d-9de4-17104cb82e09.
-Updated R1 properties.
-Add net ESC_VIN.
-Connected R1 pin 1 to ESC_VIN.
-Add net unconnected-(M2-Pad4).
-Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Changed REF** reference designator to R2.
-Changed R2 value from R_0402_1005Metric to 84.5.
-Updated R2 symbol association from  to /115a2098-97a4-416a-a673-b9da20269970.
-Updated R2 properties.
-Connected R2 pin 1 to Net-(R1-Pad2).
-Connected R2 pin 2 to GND.
-Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric').
-Connected J9 pin 6 to /RC4.
-Changed REF** reference designator to J9.
-Changed J9 value from JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical to Conn_01x10.
-Updated J9 symbol association from  to /901a2fe0-5afd-4d71-807e-42fe57fd7f66.
-Updated J9 properties.
-Connected J9 pin 1 to GND.
-Connected J9 pin 2 to +5V.
-Connected J9 pin 3 to /RC1.
-Connected J9 pin 4 to /RC2.
-Connected J9 pin 5 to /RC3.
-Added J9 (footprint 'Connector_JST:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical').
-Connected J9 pin 7 to /RC5.
-Connected J9 pin 8 to /RC6.
-Connected J9 pin 9 to /RC7.
-Connected J9 pin 10 to /RC8.
-Added M1 (footprint 'Ardupi:RFM95W-915S2').
-Connected M2 pin 1 to unconnected-(M2-Pad1).
-Updated M1 symbol association from  to /3d5e245b-e6fb-49bc-b954-86fc507cf35b.
-Updated M1 properties.
-Add net unconnected-(M1-Pad1).
-Added J8 (footprint 'Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical').
-Added J7 (footprint 'Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical').
-Changed REF** reference designator to J7.
-Changed J7 value from JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical to Conn_01x04.
-Updated J7 symbol association from  to /5ae094ee-cc0f-43d5-9bad-9e07e078f4f4.
-Updated J7 properties.
-Connected J7 pin 1 to +5V.
-Connected J7 pin 2 to /SDA.
-Connected J7 pin 3 to /SCL.
-Connected J7 pin 4 to GND.
-Changed REF** reference designator to M1.
-Changed REF** reference designator to J8.
-Changed J8 value from JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical to Conn_01x05.
-Updated J8 symbol association from  to /c65cc848-d67f-41ae-97d7-9af2d846301d.
-Updated J8 properties.
-Connected J8 pin 1 to GND.
-Connected J8 pin 2 to +5V.
-Connected J8 pin 3 to /MOSI.
-Connected J8 pin 4 to /MISO.
-Connected J8 pin 5 to /SCLK.
-Add net unconnected-(M1-Pad14).
-Connected M1 pin 1 to unconnected-(M1-Pad1).
-Add net unconnected-(M1-Pad9).
-Connected M1 pin 9 to unconnected-(M1-Pad9).
-Add net unconnected-(M1-Pad10).
-Connected M1 pin 10 to unconnected-(M1-Pad10).
-Add net unconnected-(M1-Pad11).
-Connected M1 pin 11 to unconnected-(M1-Pad11).
-Add net unconnected-(M1-Pad12).
-Connected M1 pin 12 to unconnected-(M1-Pad12).
-Add net unconnected-(M1-Pad13).
-Connected M1 pin 13 to unconnected-(M1-Pad13).
-Connected M1 pin 8 to unconnected-(M1-Pad8).
-Connected M1 pin 14 to unconnected-(M1-Pad14).
-Add net unconnected-(M1-Pad15).
-Connected M1 pin 15 to unconnected-(M1-Pad15).
-Add net unconnected-(M1-Pad16).
-Connected M1 pin 16 to unconnected-(M1-Pad16).
-Added M2 (footprint 'Ardupi:NEO-M8Q-01A').
-Changed REF** reference designator to M2.
-Updated M2 symbol association from  to /50a08401-b596-4416-817f-d0a8bf45f264.
-Updated M2 properties.
-Add net unconnected-(M2-Pad1).
-Connected M1 pin 7 to unconnected-(M1-Pad7).
-Add net unconnected-(M1-Pad2).
-Connected M1 pin 2 to unconnected-(M1-Pad2).
-Add net unconnected-(M1-Pad3).
-Connected M1 pin 3 to unconnected-(M1-Pad3).
-Add net unconnected-(M1-Pad4).
-Connected M1 pin 4 to unconnected-(M1-Pad4).
-Add net unconnected-(M1-Pad5).
-Connected M1 pin 5 to unconnected-(M1-Pad5).
-Add net unconnected-(M1-Pad6).
-Connected M1 pin 6 to unconnected-(M1-Pad6).
-Add net unconnected-(M1-Pad7).
-Add net unconnected-(M1-Pad8).
-Warning: No net found for symbol U4 pin EPAD.
+Info: Processing symbol 'R29:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'BT1:'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C1:Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L'.
+Info: Processing symbol 'C9:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'U6:Ardupi:BMP280'.
+Info: Processing symbol 'C8:'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C11:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C6:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:CP_Elec_3x5.3'.
+Updated C6 properties.
+Changed REF** reference designator to C9.
+Added C9 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Connected C11 pin 1 to Net-(C11-Pad1).
+Added C4 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Connected C6 pin 2 to VESC.
+Connected C6 pin 1 to GND.
+Updated C4 properties.
+Updated C6 symbol association from  to /385ceaac-2d80-4d2b-9f7d-d70a6139066e.
+Changed C6 value from CP_Elec_3x5.3 to 2.2 uF.
+Changed REF** reference designator to C6.
+Added C6 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Elec_3x5.3 to 2.2 uF.
+Updated C4 symbol association from  to /c6b6c02e-7ff3-4761-9753-84d3bebf38d9.
+Connected C4 pin 2 to GND.
+Connected C4 pin 1 to VESC.
+Updated C9 symbol association from  to /e98d4e3c-4d23-4501-8ce0-5695f4caf8e1.
+Connected C11 pin 2 to VPI.
+Added C13 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C13.
+Changed C13 value from CP_Elec_3x5.3 to 47 uF.
+Updated C13 symbol association from  to /f6fd213a-0d40-449d-ad9b-87d85bde9a65.
+Updated C13 properties.
+Connected C13 pin 1 to VPI.
+Connected C13 pin 2 to Net-(C11-Pad1).
+Updated C11 properties.
+Updated C11 symbol association from  to /9cbd967f-a345-48df-bc87-2faff0b17122.
+Changed C11 value from CP_Elec_3x5.3 to 47 uF.
+Changed REF** reference designator to C11.
+Added C11 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Connected C10 pin 2 to GND.
+Connected C10 pin 1 to Net-(C10-Pad1).
+Updated C10 properties.
+Updated C10 symbol association from  to /becd51ef-a3af-46f7-bc34-9263f3cfa6d4.
+Changed C10 value from CP_Elec_3x5.3 to 39 pF.
+Changed REF** reference designator to C10.
+Added C10 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Connected C9 pin 2 to Net-(C9-Pad2).
+Connected C9 pin 1 to GND.
+Updated C9 properties.
+Changed C9 value from CP_Elec_3x5.3 to 6800 pF.
 Warning: No net found for symbol U5 pin 25.
-Error: Cannot add C6 (no footprint assigned).
+Warning: No net found for symbol U4 pin EPAD.
 Error: U4 pad 9 not found in Ardupi:TPS54360BDDAR.
 Error: Cannot add L1 (no footprint assigned).
 Error: Cannot add C8 (no footprint assigned).
-Error: Cannot add C9 (no footprint assigned).
-Error: Cannot add C10 (no footprint assigned).
-Error: Cannot add C11 (no footprint assigned).
-Error: Cannot add C4 (no footprint assigned).
-Error: Cannot add C13 (no footprint assigned).
+Error: Cannot add BT1 (no footprint assigned).
 
 
-Info: Total warnings: 0, errors: 9.
+Info: Total warnings: 0, errors: 4.
