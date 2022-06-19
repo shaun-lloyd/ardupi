@@ -1959,6 +1959,7 @@
     )
   )
 
+
   (junction (at 231.14 136.525) (diameter 0) (color 0 0 0 0)
     (uuid 056c2393-08f0-47a6-b2a4-2556b55f8601)
   )
@@ -33378,7 +33379,7 @@
   (symbol (lib_id "power:GND") (at 370.84 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9d64fe7c-61dc-440b-a788-f5aa6a9db742)
-    (property "Reference" "#PWR?" (id 0) (at 377.19 43.18 0)
+    (property "Reference" "#PWR026" (id 0) (at 377.19 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 374.65 43.1799 90)
@@ -33981,7 +33982,7 @@
   (symbol (lib_id "ArduPi:XT60PW-M") (at 360.68 43.18 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f56432bf-c0b9-4c59-8925-79f6ee736cf2)
-    (property "Reference" "J?" (id 0) (at 360.68 35.56 0))
+    (property "Reference" "J10" (id 0) (at 360.68 35.56 0))
     (property "Value" "XT60PW-M" (id 1) (at 360.68 38.1 0))
     (property "Footprint" "Ardupi:AMASS_XT60PW-M" (id 2) (at 370.84 38.1 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -34133,6 +34134,9 @@
     (path "/6452f7e7-6d77-4693-a1b8-e68c48f5e941"
       (reference "#PWR025") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/9d64fe7c-61dc-440b-a788-f5aa6a9db742"
+      (reference "#PWR026") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b6a23b04-9aa0-4ad7-b50e-07d906aa6a47"
       (reference "#PWR027") (unit 1) (value "+5V") (footprint "")
     )
@@ -34177,9 +34181,6 @@
     )
     (path "/bdac05d3-15d9-4f6c-93df-258fd6a0692d"
       (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/9d64fe7c-61dc-440b-a788-f5aa6a9db742"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/55a63010-7245-47fd-91a8-542e6efde2f6"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L")
@@ -34260,7 +34261,7 @@
       (reference "J9") (unit 1) (value "Conn_01x10") (footprint "Connector_JST:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical")
     )
     (path "/f56432bf-c0b9-4c59-8925-79f6ee736cf2"
-      (reference "J?") (unit 1) (value "XT60PW-M") (footprint "Ardupi:AMASS_XT60PW-M")
+      (reference "J10") (unit 1) (value "XT60PW-M") (footprint "Ardupi:AMASS_XT60PW-M")
     )
     (path "/a91fa0d1-367b-4094-b07a-ef2a52efd8e9"
       (reference "L1") (unit 1) (value "8.2 uH") (footprint "")
