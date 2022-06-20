@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 97aa835c-3a73-4c60-9563-dda1fff1cb17)
   )
-  (fp_text value "NEO-M8Q-01A" (at 0 8.775628) (layer "F.Fab")
+  (fp_text value "NEO-M8Q-01A" (at -0.009 9.347354) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e3b2c39a-b5bd-4739-81e3-54ffb67d2b90)
   )
