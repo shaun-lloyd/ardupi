@@ -343,10 +343,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Ardupi"
+      "Ardupi",
+      "Parts"
     ],
     "pinned_symbol_libs": [
-      "ArduPi"
+      "ArduPi",
+      "Parts"
     ]
   },
   "meta": {
