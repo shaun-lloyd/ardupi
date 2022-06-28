@@ -347,7 +347,6 @@
       "Parts"
     ],
     "pinned_symbol_libs": [
-      "ArduPi",
       "Parts"
     ]
   },
